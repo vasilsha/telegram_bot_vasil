@@ -37,7 +37,7 @@ def main() -> None:
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
     # updater = Updater(os.environ['BOT_API_TOKEN'])
-    updater = Updater('1969006923:AAGtBhiBZXwfjMhYgJR9fb0lqNj95AacgcA')
+    updater = Updater('Token')
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
 
